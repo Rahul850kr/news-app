@@ -1,0 +1,18 @@
+body{
+    background: url("https://thumbs.dreamstime.com/b/abstract-geometric-hexagonal-shape-medicine-science-background-concept-series-modern-space-news-studio-lens-flare-map-172698591.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#results{
+    margin: auto;
+    border: 1px solid pink;
+    width: 80%;
+    color: white;
+}
+img{
+    width: 100px;
+    height: 100px;
+}
+.news{
+    display: flex;
+}

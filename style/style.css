@@ -1,0 +1,16 @@
+#navbar{
+    display: flex;
+    gap: 60px;
+    padding: 10px 30px;
+    align-items: center;
+
+}
+#search_input{
+    width: 80%;
+    height: 50px;
+    border-radius: 10px;
+}
+#logo{
+    text-decoration: none;
+    color: white;
+}
